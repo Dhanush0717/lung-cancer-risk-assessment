@@ -77,6 +77,10 @@ The following models were trained:
 - 🧠 Implement deep learning models for higher accuracy
 - 🌐 Deploy as a web application
 
+## 🌐 Live Demo
+Check out the live demo of the Lung Cancer Risk Assessment Model here:
+[🔗 Lung Cancer Risk Assessment](https://lungcancerriskassessment.netlify.app/)
+
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
