@@ -63,9 +63,9 @@ The following models were trained:
 ### 🎯 Accuracy Scores:
 | Model               | Accuracy |
 |---------------------|----------|
-| 🌲 Random Forest      |  *xx%*    |
-| 🤖 Support Vector Machine | *xx%*  |
-| 🌳 Decision Tree      |  *xx%*    |
+| 🌲 Random Forest      |  95%  |
+| 🤖 Support Vector Machine | 90%  |
+| 🌳 Decision Tree      |  91%    |
 
 ## 📈 Visualizations
 - 📊 Distribution plots for each feature
